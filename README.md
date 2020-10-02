@@ -7,7 +7,7 @@
 >> [Codemagic is the top CI/CD among Flutter developers](https://medium.com/flutter/improving-flutter-with-your-opinion-q4-2019-survey-results-ba0e6721bf23)   
 >> [What we learned about CI/CD analysing 75k builds](https://nevercode.io/blog/what-we-learned-about-ci-cd-tool-analysing-75k-builds/)  
 
-⚡ Love in Flutter
+⚡ In love with Flutter💙
 
 ![](https://img.shields.io/badge/<>-Marketing_strategy-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<>-SEO-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
